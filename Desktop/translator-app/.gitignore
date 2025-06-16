@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+package-lock.json
+dist/
+.vite/
+
+# Логи та тимчасові файли
+*.log
+.DS_Store
